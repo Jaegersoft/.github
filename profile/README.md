@@ -1,4 +1,4 @@
-![Jaegersoft Logo](assets/Logo.svg)
+![Jaegersoft Logo](../assets/Logo.svg)
 
 
 # 🚀 Welcome to Jaegersoft
