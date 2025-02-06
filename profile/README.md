@@ -33,5 +33,5 @@ Our engineers are skilled in a diverse range of technologies, including (but not
 Have an idea or need a custom software solution? Let's build it together.
 
 📧 **Contact us:** admin@jaegersoft.com
-🌐 **Website:** jaegersoft.com (Replace with actual URL)
-🔗 **LinkedIn:** linkedin.com/company/jaegersoft (Replace with actual URL)
+🌐 **Website:** jaegersoft.com
+🔗 **LinkedIn:** linkedin.com/company/jaegersoft
